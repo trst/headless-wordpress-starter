@@ -13,7 +13,8 @@
         "wpackagist-plugin/wp-rest-api-v2-menus": "^0.7.7",
         "wpackagist-plugin/acf-to-rest-api": "^3.2",
         "wpackagist-plugin/autodescription": "^4.0",
-        "wpackagist-plugin/advanced-custom-fields": "^5.8"
+        "wpackagist-plugin/advanced-custom-fields": "^5.8",
+        "wp-graphql/wp-graphql": "^0.12.1"
     },
     "extra": {
         "installer-paths": {
